@@ -1271,3 +1271,11 @@ section {
 #footer .credits a {
   color: #a2cce3;
 }
+
+
+.box {
+  width: auto;
+  padding: auto;
+  border: 6px solid rgb(111, 202, 146);
+  margin: 1;
+}
